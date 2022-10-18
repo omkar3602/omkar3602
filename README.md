@@ -43,7 +43,8 @@ Feel free to connect with me here:
 <a href="https://www.kali.org/" title="Kali Linux" target="_blank"><img src="./icons/kali-linux.svg" width="30" height="30"/></a>
 <a href="https://dart.dev/" title="Dart" target="_blank"><img src="./icons/dart.svg" width="30" height="30"/></a>
 <a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="./icons/flutter.svg" width="30" height="30"/></a>
-<a href="https://www.rust-lang.org/" title="Rust" target="_blank"><img src="./icons/rust.svg" width="30" height="30"/></a>
+<a href="https://firebase.google.com/" title="Firebase" target="_blank"><img src="./icons/firebase.svg" width="30" height="30"/></a>
+<!-- <a href="https://www.rust-lang.org/" title="Rust" target="_blank"><img src="./icons/rust.svg" width="30" height="30"/></a> -->
 
 ---
 
