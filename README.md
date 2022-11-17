@@ -37,14 +37,13 @@ Feel free to connect with me here:
 <a href="https://git-scm.com/" title="Git" target="_blank"><img src="./icons/git.svg" width="30" height="30"/></a>
 <a href="https://github.com/" title="GitHub" target="_blank"><img src="./icons/github.svg" width="30" height="30"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="./icons/vscode.svg" width="30" height="30"/></a>
-
-
-## 📚 Learning
-
 <a href="https://www.kali.org/" title="Kali Linux" target="_blank"><img src="./icons/kali-linux.svg" width="30" height="30"/></a>
 <a href="https://dart.dev/" title="Dart" target="_blank"><img src="./icons/dart.svg" width="30" height="30"/></a>
 <a href="https://flutter.dev/" title="Flutter" target="_blank"><img src="./icons/flutter.svg" width="30" height="30"/></a>
 <a href="https://firebase.google.com/" title="Firebase" target="_blank"><img src="./icons/firebase.svg" width="30" height="30"/></a>
+
+<!-- ## 📚 Learning
+ -->
 <!-- <a href="https://www.rust-lang.org/" title="Rust" target="_blank"><img src="./icons/rust.svg" width="30" height="30"/></a> -->
 
 ---
