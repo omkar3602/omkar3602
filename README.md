@@ -1,6 +1,6 @@
 ## Hi there! <img src="./images/wave.gif" width="30">
 
-I am Omkar Jahagirdar, a CSE undergrad at Vishwakarma Institute of Technology, Pune. I am interested in Machine Learning and Web Development. Currently exploring Cyber Security and App Development. Also I'm an open-source advocate and I like to take part in hackathons. 
+I am Omkar Jahagirdar, a CSE undergrad at Vishwakarma Institute of Technology, Pune. I am interested in Machine Learning and Web Development. I have decent experience in Cyber Security and App Development. Currently exploring blockchain and Web 3.0 space. Also I'm an open-source advocate and I like to take part in hackathons. 
 
 Feel free to connect with me here:
 
