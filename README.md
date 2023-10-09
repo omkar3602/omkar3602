@@ -49,7 +49,7 @@ Feel free to connect with me here:
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=omkar3602&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=omkar3602&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkar3602&hide=TeX&layout=compact)
 
