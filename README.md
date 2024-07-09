@@ -1,9 +1,5 @@
 ## Hi there! <img src="./images/wave.gif" width="30">
 
-I am Omkar Jahagirdar, a CSE undergrad at Vishwakarma Institute of Technology, Pune. I am interested in Machine Learning and Web Development. I have a decent experience in Cyber Security and App Development. Currently exploring blockchain and Web 3.0 space. Also I'm an open-source advocate and I like to take part in hackathons. 
-
-Feel free to connect with me here:
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/omkar-jahagirdar/)](https://www.linkedin.com/in/omkar-jahagirdar/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=Loop&logoColor=white&link=https://www.omkarjahagirdar.com/)](https://www.omkarjahagirdar.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omkar3602@gmail.com)](mailto:omkar3602@gmail.com)
