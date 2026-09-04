@@ -66,7 +66,7 @@ deep learning, and full-stack systems.
 
 - **[Mobile Application Permission Prediction System](https://github.com/omkar3602)** — Machine Learning
 - **[Wrist Jockey](https://github.com/omkar3602/wrist-jockey)** — Control music from your wrist
-- **[Auto Apply](https://github.com/omkar3602)** — Automated job application pipeline
+- **[Auto Apply](https://github.com/omkar3602/auto-apply)** — Automated job application pipeline
 - **[TeachAR](https://github.com/omkar3602/TeachAR)** — Immersive AR e-learning
 - **[Bridgestone Idea Management Platform](https://github.com/omkar3602/Bridgestone-Idea-Management-Platform)**
 - **[Pneumonia Detection using CNN & Transfer Learning](https://github.com/omkar3602/pneumonia-detector)**
