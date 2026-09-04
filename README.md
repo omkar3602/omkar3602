@@ -54,6 +54,14 @@ deep learning, and full-stack systems.
 
 ---
 
+## 💼 Experience
+
+- **Software Development Intern** — SculptSoft (May–Aug 2025)
+- **Software Engineering Intern** — JPMorgan Chase & Co., Mumbai (Jan–Jun 2024)
+- **Software Engineering Intern** — JPMorgan Chase & Co., Bangalore (Jun–Jul 2023)
+
+---
+
 ## 🚀 Featured Projects
 
 - **[Mobile Application Permission Prediction System](https://github.com/omkar3602)** — Machine Learning
@@ -62,14 +70,5 @@ deep learning, and full-stack systems.
 - **[TeachAR](https://github.com/omkar3602/TeachAR)** — Immersive AR e-learning
 - **[Bridgestone Idea Management Platform](https://github.com/omkar3602/Bridgestone-Idea-Management-Platform)**
 - **[Pneumonia Detection using CNN & Transfer Learning](https://github.com/omkar3602/pneumonia-detector)**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar3602&show_icons=true&hide_border=true&count_private=false)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=omkar3602&hide_border=true)
 
 ---
