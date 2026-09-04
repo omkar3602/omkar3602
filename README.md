@@ -64,7 +64,7 @@ deep learning, and full-stack systems.
 
 ## 🚀 Featured Projects
 
-- **[Mobile Application Permission Prediction System](https://github.com/omkar3602)** — Machine Learning
+- **[Mobile Application Permission Prediction System](https://github.com/omkar3602/mobile-app-prediction-system)** — Deep Learning, LLM fine-tuning
 - **[Wrist Jockey](https://github.com/omkar3602/wrist-jockey)** — Control music from your wrist
 - **[Auto Apply](https://github.com/omkar3602/auto-apply)** — Automated job application pipeline
 - **[TeachAR](https://github.com/omkar3602/TeachAR)** — Immersive AR e-learning
