@@ -56,7 +56,8 @@ deep learning, and full-stack systems.
 
 ## 💼 Experience
 
-- **Software Development Intern** — SculptSoft (May–Aug 2025)
+- **Data Analyst** — Sonata Software (Oct 2026–Present)
+- **AI/ML Intern** — SculptSoft (May–Aug 2025)
 - **Software Engineering Intern** — JPMorgan Chase & Co., Mumbai (Jan–Jun 2024)
 - **Software Engineering Intern** — JPMorgan Chase & Co., Bangalore (Jun–Jul 2023)
 
